@@ -11,3 +11,6 @@
       			</div>
       		</div>$0
     '''
+    description: 'A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.'
+    descriptionMoreURL: 'https://getbootstrap.com/docs/4.0/components/card/'
+    
